@@ -1,5 +1,7 @@
 
-# APIRESTPruebaTenica
+# API REST Prueba Tenica en C# NET CORE 6.0
+
+El consumo de la api creada en este proyecto requiere de una conexión a una base de datos ,sin embargo se puede hacer la prueba de los diferentes servicios creando listas de objetos que simulen el contenido guardado en la base ya que  el proyecto esta esta estructurado por el  modelo MVC.
 
 ## POST Autenticacion
 
